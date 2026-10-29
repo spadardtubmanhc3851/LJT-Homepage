@@ -11,3 +11,7 @@ This repository is forked from [Academic Pages](https://github.com/academicpages
 - `_config.yml`: site identity, author profile, contact links, and deployment settings.
 
 The site navigation contains only About and Publications.
+
+## Publishing
+
+The GitHub Actions workflow builds and checks both content pages. To activate hosting, enable GitHub Pages in the repository settings and select **GitHub Actions** as the source. Subsequent builds will deploy automatically. The configured site address is `https://spadardtubmanhc3851.github.io/LJT-Homepage/`.
