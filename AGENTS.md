@@ -1,7 +1,10 @@
-# Agent Guidelines for Academic Pages (academicpages.github.io, v.0.9.x)
+# Agent guidelines for LJT-Homepage
 
-**This file contains important information for coding agents working in this repo.**
+This is Junteng Liu's personal website, forked from Academic Pages. Do not create pull requests to the upstream Academic Pages repository for changes to this site.
 
-`academicpages.github.io` is a Jekyll theme for academic, professional, and personal portfolio-oriented websites. The the typical use pattern is to "Use this template" to "Create a new repository" (see [Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)) where the user will then make their own edits to customize the template to create their own personal GitHub pages website. 
+Keep personal content limited to the supplied profile information. The public content consists of the About and Publications pages; do not add other content pages.
 
-If a user has created a personal website, there is **no need** to create a pull request back to the `academicpages.github.io` repository.
+Primary content files:
+- `_pages/about.md`
+- `_pages/publications.html`
+- `_config.yml`
